@@ -22,7 +22,7 @@ public class Mutant
             leg[i] = new Leg();
         }
 
-        Console.WriteLine("I have " + bigArmNumber + " arms and " + bigLegNumber + " legs.");
+        Console.WriteLine("I have " + bigArmNumber + " arms and " + bigLegNumber + " legs."); 
     }
 
 }

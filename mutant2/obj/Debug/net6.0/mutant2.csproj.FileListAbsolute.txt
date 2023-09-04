@@ -1,0 +1,5 @@
+C:\Users\sune1\Pictures\Big coding\CSharp\Big_Mutant\mutant2\obj\Debug\net6.0\mutant2.csproj.AssemblyReference.cache
+C:\Users\sune1\Pictures\Big coding\CSharp\Big_Mutant\mutant2\obj\Debug\net6.0\mutant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sune1\Pictures\Big coding\CSharp\Big_Mutant\mutant2\obj\Debug\net6.0\mutant2.AssemblyInfoInputs.cache
+C:\Users\sune1\Pictures\Big coding\CSharp\Big_Mutant\mutant2\obj\Debug\net6.0\mutant2.AssemblyInfo.cs
+C:\Users\sune1\Pictures\Big coding\CSharp\Big_Mutant\mutant2\obj\Debug\net6.0\mutant2.csproj.CoreCompileInputs.cache
